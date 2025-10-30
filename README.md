@@ -56,9 +56,6 @@ This website allows anyone to **share their live location** safely and beautiful
 
 ## 🦁 Author
 **Yishak Esatu** – *Be brave like a lion, but wise like a coder*  
-<p align="center">
-  <img src="https://i.imgur.com/habesha-example.jpg" width="200" alt="Habesha Teenage Boy Image">
-</p>
 
 **Connect with me:**  
 - [GitHub](https://github.com/yagamer7773-tech)  
