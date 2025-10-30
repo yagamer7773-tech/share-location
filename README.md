@@ -64,4 +64,4 @@ This project is open-source and free to use.
 ## ⚠️ Privacy Note
 - The website requests your location **only when you click the button and allow access**.  
 - No location is stored unless you share it via the buttons.  
-- Always make sure to **consent** before sharing your location.
+- Always make sure yishak is behind you 
